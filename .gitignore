@@ -1,0 +1,16 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/scala,metals
+# Edit at https://www.toptal.com/developers/gitignore?templates=scala,metals
+
+### Metals ###
+.metals/
+.bloop/
+project/metals.sbt
+project/target
+
+### Scala ###
+*.class
+*.log
+
+target
+# End of https://www.toptal.com/developers/gitignore/api/scala,metals
